@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+      <head>
+	      <title>home page</title>
+		  <link href='asset/css/960.css' rel='stylesheet'/>
+		  <link href='asset/css/style.css' rel='stylesheet'/>
+	  </head>
+	  <body>
+	       <div class='container_12'>
+		       <!--Header start shirish@itvedant.com--->
+			   <div class='grid_3 logo'>
+			     <img src='asset/photos/imag.png' width='220px' height='200px'/>
+		
+			  </div>
+			   <div class='grid_9 cname'>
+			    technology group
+			   </div>
+			   <div class='clear'>
+			   </div>
+			   <!--- menu start--->
+			      <div class='grid_3 menu'>
+				      <a href='index.html'>HOME</a>
+				  </div>
+				  <div class='grid_3 menu'>
+				      <a href='about.html'>ABOUT US</a>
+				  </div>
+				  <div class='grid_3 menu'>
+				      <a href='product.html'>PRODUCT</a>
+				 </div>
+				 <div class='grid_3 menu'>
+				      <a href='contact.html'>deatiles</a>
+				 </div>
+			  
+			   <!----menu end--->
+			   <div class='clear'>
+			   </div>
+			   <div class='grid_12 tech'>
+			     <img src='asset/photos/tech.jpg' width='940px' height='700px'/>
+			   </div>
+			   <div class='clear'>
+			   </div>
+			   <!--- about us section start--->
+			   <div class='grid_12 section'>
+			          About Us
+			   </div>
+			   <div class='clear'>
+			   </div>
+			   <div class='grid_5 about'>
+			     <img src='asset/photos/aboutus.jpg' width='380px' height='300px'>
+			   </div>
+			   <div class='grid_7 about'>
+			     <h1>about technology</h1>
+			      A summer that lasts from March to June, a season of tropical rains that runs from July to September, 
+				  and a winter that lasts from October to February constitute the three seasons of Andhra Pradesh. Summers are extraordinarily hot and humid, 
+				  with maximum daily temperatures exceeding 95 °F (35 °C) and even surpassing 104 °F (40 °C) in the central portion of the state. 
+				  Summer nightly minimums drop to below about 70 °F (20 °C) only in the far southwest. Winters are somewhat cooler, with January maximum temperatures between 86 and 95 °F (30 and 35 °C) in all but the northeastern portion of the state. 
+				  Winter lows drop below about 60 °F (15 °C) only in the extreme northeast.
+			   </div>
+			   <div class='clear'>
+			   </div>
+			   <div class='grid_12 section'>
+			     product
+				</div>
+			  <div class='clear'>
+			  </div>
+			  <div class='grid_4 product'>
+			     <img src='asset/photos/product.jpg' width='300px'/>
+			  </div>
+			  <div class='grid_4 product'>
+			      <img src='asset/photos/product.jpg' width='300px'/>
+			  </div>
+			  <div class='grid_4 product'>
+			  
+			       <img src='asset/photos/product.jpg' width='300px'/>
+			  </div>
+			   <div class='clear'>
+			  </div>
+			  <div class='grid_4 deatiles'>
+			       <a href='product.html'>read more......</a>
+			  </div>
+			  <div class='grid_4 deatiles'>
+			        <a href='product.html'>read more......</a>
+			  </div>
+			  <div class='grid_4 deatiles'>
+			       <a href='product.html'>read more......</a>
+			  </div>
+			  <div class='clear'>
+			  </div>
+			   <!--- about us section end--->
+			   <div class='grid_12 section'>
+			        Contact us
+				</div>
+			 <div class='grid_6 product'>
+			       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.046864389775!2d77.60410711378908!3d12.904708119836648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15c7473a6771%3A0xfecb34a9dcfa3401!2sItvedant%20Education%20Pvt.%20Ltd%20-%20Bengaluru%20%7C%20Data%20Science%2C%20Data%20Analytics%2C%20Full%20Stack%20Developer%2C%20Python%2C%20Machine%20Learning%20%26%20AI%20Training%20Bangaluru!5e0!3m2!1sen!2sin!4v1640756869162!5m2!1sen!2sin" width="460" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+			 </div>
+			 <div class='grid_6 product'>
+			 <iframe width="460" height="450" src="https://www.youtube.com/embed/IFwdOawuu6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			 </div>
+			 <div class='clear'>
+			 </div>
+		   </div>
+	  </body>
+</html>

@@ -1,0 +1,467 @@
+<html>
+     <head>
+	     <title>men</title>
+		 <link href='asset/css/960.css' rel='stylesheet'/>
+		<link href='asset/css/mob.css' rel='stylesheet'/>
+	 </head>
+	 <body>
+	    <div class='container_12'>
+		     <div class='grid_4 mm'>
+			     <img src='asset/photos/pranitha.png' width='300px' height='200px'>
+			 </div>
+			 <div class='grid_8 name'>
+			      PRANITHA FOUNDATION
+			 </div>
+			 <div class='clear'>
+			 </div>
+			 <div class='grid_2 menu'>
+			     <a href='pranitha.html'>MENU</a>
+			 </div>
+			 <div class='grid_2 menu'>
+			    <a href='mens.html'>MEN</a>
+			 </div>
+			 <div class='grid_2  menu'>
+			    <a href='womens.html'>WOMEN</a>
+			 </div>
+			  <div class='grid_2  menu'>
+			     <a href='childrens.html'>CHILD</a>
+			 </div>
+			 <div class='grid_2  menu'>
+			     <a href='mobiles.html'>MOBILES</a>
+			 </div>
+			 <div class='grid_2  menu'>
+			     <a href='laptops.html'>LAPTOP AND ELECTRONIC</a>
+			</div>
+			<div class='grid_3 mob'>
+			  <h1 style='color:Maroon'>FILTERS</h1>
+			   <h1 style='color:Maroon'>Prime&Delivery</h2>
+			  <h3 style='color:Maroon'>Delivery</h3>
+			   <a href='mobiles.html'>Get It Today</a>
+			   <a href='mobiles.html'>Get It By Tomorrow</a>
+			   <h3 style='color:Maroon'>Shipping Option</h3>
+			   <a href='mobiles.html'>Eligible for pay on delivery</a>
+			    <h3 style='color:Maroon'>Categories</h3>
+				<h4 style='color:Maroon'>Smartphone & Basic Mobiles</h4>
+				<a href='mobiles.html'>All</a>
+				<a href='mobiles.html'>Smartphones</a>
+				<a href='mobiles.html'>Basic mobiles</a>
+				<h2 style='color:Maroon'>Brands</h2>
+				<h3 style='color:Maroon'>A-F</h3>
+				<a href='mobiles.html'>Apple</a>
+				<a href='mobiles.html'>ASUS</a>
+				<a href='mobiles.html'>Black Zone</a>
+				<h3 style='color:Maroon'>G-M</h3>
+			    <a href='mobiles.html'>Generic,</a>
+				<a href='mobiles.html'>Google,</a>
+				<a href='mobiles.html'>IKALL,</a>
+				<a href='mobiles.html'>IQOO,</a>
+				<a href='mobiles.html'>itel,</a>
+				<a href='mobiles.html'>lava,</a>
+				<a href='mobiles.html'>lenovo,</a>
+				<a href='mobiles.html'>LG,</a>
+				<a href='mobiles.html'>MI,</a>
+				<a href='mobiles.html'>Micromax,</a>
+				<a href='mobiles.html'>Motorola,</a>
+				<a href='mobiles.html'>MTR,</a>
+				<h3 style='color:Maroon'>N-Z</h3>
+			    <a href='mobiles.html'>Nillkin,</a>
+				<a href='mobiles.html'>Nokia,</a>
+				<a href='mobiles.html'>OnePlus,</a>
+				<a href='mobiles.html'>Oppo,</a>
+				<a href='mobiles.html'>OtterBox,</a>
+				<a href='mobiles.html'>Realme,</a>
+				<a href='mobiles.html'>Redmi,</a>
+				<a href='mobiles.html'>Samsung,</a>
+				<a href='mobiles.html'>SHIVAVNSH,</a>
+				<a href='mobiles.html'>Snexian,</a>
+				<a href='mobiles.html'>Sony,</a>
+				<a href='mobiles.html'>Tecno,</a>
+				<a href='mobiles.html'>Vivo,</a>
+				<a href='mobiles.html'>Xiaomi,</a>
+				<a href='mobiles.html'>Xifo,</a>
+				<a href='mobiles.html'>Zivite,</a>
+				<h3 style='color:Maroon'>Price and Deals</h3>
+				<h4 style='color:Maroon'>Price</h4>
+				<h4 style='color:Maroon'>All Price</h4>
+			    <a href='mobiles.html'>under RS 1000,</a>
+				<a href='mobiles.html'>RS 1000-RS 5000,</a>
+				<a href='mobiles.html'>RS 5000-RS 10,000,</a>
+				<a href='mobiles.html'>RS 10000-RS 20000,</a>
+				<a href='mobiles.html'>Over Rs 20000</a><br><br>
+				<table>
+				  <tr>
+				      
+				     <td width='30px' height='30px'><input  placeholder='min' required/></td>
+				  </tr>
+				</table>
+				<table >
+				  <tr>
+				      
+				     <td width='30px' height='30px'><input  placeholder='min' required/></td>
+				  </tr>
+				</table>
+				
+				<table >
+				  <tr>
+				      
+				     <td width='30px' height='30px'><input type='submit' name='save'/></td>
+				  </tr>
+				</table>
+				 <h1 style='color:Maroon'>Discount</h1>
+              <a href='mobiles.html'>10% Off or more</a><br>
+               <a href='mobiles.html'> 25% Off or more</a><br>
+              <a href='mobiles.html'>35% Off or more</a><br>
+              <a href='mobiles.html'> 50% Off or more</a><br>
+            <a href='mobiles.html'> 60% Off or more</a><br>
+             <a href='mobiles.html'> 70% Off or more</a><br>
+			 <h1 style='color:Maroon'>Delas</h1>
+			<a href='mobiles.html'>Today delas</a>
+			<h1 style='color:Maroon'>Smartphone&Basic..</h1>
+			  <h2 style='color:Maroon'>Mobile Phone Operating System</h2>
+			 <a href='mobiles.html'>Android,</a>
+			 <a href='mobiles.html'>IOS,</a>
+			 <a href='mobiles.html'>Symbian</a>
+			  <h2 style='color:Maroon'>Internal Memory</h2>
+			    <a href='mobiles.html'>Less Than 3.9 GB,</a>
+				<a href='mobiles.html'>6 GB,</a>
+				<a href='mobiles.html'>4 GB,</a>
+				<a href='mobiles.html'>8 GB,</a> 
+			   <a href='mobiles.html'>32 GB,</a>
+			    <a href='mobiles.html'>64 GB,</a>
+				 <a href='mobiles.html'>128 GB,</a>
+				  <a href='mobiles.html'>256 GB and above</a>
+				<h2 style='color:Maroon'>Number of core</h2>
+				<a href='mobiles.html'>Single core,</a> 
+				<a href='mobiles.html'>Dual core,</a> 
+				<a href='mobiles.html'>Quad core,</a>
+				<a href='mobiles.html'>Hexa core,</a>
+				<a href='mobiles.html'>2 GB,</a>
+                 <a href='mobiles.html'>Octa core</a> 
+   	
+                <h2 style='color:Maroon'>Screen size</h2>
+				<a href='mobiles.html'>up to 3.9 in,</a> 
+				<a href='mobiles.html'>4.5 to 4.9 in,</a> 
+				<a href='mobiles.html'>5 to 5.4 in,</a>
+				<a href='mobiles.html'> 5.5 & above,</a>
+				<h3 style='color:Maroon'>Processor Speed</h3>
+				<a href='mobiles.html'>Less Than 0.99GHz,</a>
+				<a href='mobiles.html'>1 - 1.49GHz,</a>
+				<a href='mobiles.html'>1.5 - 1.99GHz,</a>
+				<a href='mobiles.html'>2 - 2.4GHz,</a>
+				<a href='mobiles.html'>2.5GHz & above</a>
+				<h3 style='color:Maroon'>color</h3>
+				<a href='mobiles.html'>Black,</a>
+				<a href='mobiles.html'>Grey,</a>
+				<a href='mobiles.html'>white,</a>
+				<a href='mobiles.html'>Red,</a>
+				<a href='mobiles.html'>Pink</a>
+				<a href='mobiles.html'>Orange,</a>
+				<a href='mobiles.html'>yellow,</a>
+				<a href='mobiles.html'>Green,</a>
+				<a href='mobiles.html'>Blue,</a>
+				<a href='mobiles.html'>Purpule</a>
+				<a href='mobiles.html'>Gold,</a>
+				<a href='mobiles.html'>Silver,</a>
+				<a href='mobiles.html'>Multicoloured,</a>
+				<a href='mobiles.html'>transparent</a>
+				<h3 style='color:Maroon'>Battery Capacity</h3>
+				<a href='mobiles.html'>Less Than 999mAh,</a>
+				<a href='mobiles.html'>1000 - 1999mAh,</a>
+				<a href='mobiles.html'>2000 _- 2999mAh,</a>
+				<a href='mobiles.html'>3000 - 3999mAh,</a>
+				<a href='mobiles.html'>4000mAh & above</a>
+				<h3 style='color:Maroon'>Mobile Phone SIm Card size</h3>
+				<a href='mobiles.html'>nano</a>
+				<h3 style='color:Maroon'>Mobile phone connectivity techonology</h3>
+				<a href='mobiles.html'>Bluetooth,</a>
+				<a href='mobiles.html'>Infrared,</a>
+				<a href='mobiles.html'>NFC,</a>
+				<a href='mobiles.html'>USB</a>
+				<a href='mobiles.html'>WI-FI</a>
+				<h3 style='color:Maroon'>Mobile Phone Shooting Modes</h3>
+				<a href='mobiles.html'>Aperture Priority,</a>
+				<a href='mobiles.html'>Automatic,</a>
+				<a href='mobiles.html'>High Dynamic Range,</a>
+				<a href='mobiles.html'>Macro</a>
+				<a href='mobiles.html'>Night mode,</a>
+				<a href='mobiles.html'>Panorama,</a>
+				<a href='mobiles.html'>portait,</a>
+				<a href='mobiles.html'>Scene</a>
+				<a href='mobiles.html'>Sports</a>
+				<h3 style='color:Maroon'>Front Camers Resolution</h3>
+				<a href='mobiles.html'>Up to 3.9 MP,</a>
+				<a href='mobiles.html'>4-7.9MP,</a>
+				<a href='mobiles.html'>8-11.9 MP,</a>
+				<a href='mobiles.html'>12 -15.9 MP</a>
+				<a href='mobiles.html'>16 - 199.9 MP,</a>
+				<a href='mobiles.html'>20 - 23.0 MP,</a>
+				<a href='mobiles.html'>32 MP & above</a>
+				<h3 style='color:Maroon'>Mobile Phone Human Interface input</h3>
+				<a href='mobiles.html'>Button,</a>
+				<a href='mobiles.html'>Dial,</a>
+				<a href='mobiles.html'>Keyboard,</a>
+				<a href='mobiles.html'>Keypad,</a>
+				<a href='mobiles.html'>Microphone,</a>
+				<a href='mobiles.html'>Touchscreen,</a>
+				<h3 style='color:Maroon'>Mobile phone Primary Camera Resolution</h3>
+				<a href='mobiles.html'>Up to 3.9 MP,</a>
+				<a href='mobiles.html'>4-7.9MP,</a>
+				<a href='mobiles.html'>8-11.9 MP,</a>
+				<a href='mobiles.html'>12 -15.9 MP</a>
+				<a href='mobiles.html'>16 - 199.9 MP,</a>
+				<a href='mobiles.html'>20 - 23.0 MP,</a>
+				<a href='mobiles.html'>32 MP & above</a>
+				<h3 style='color:Maroon'>Mobile phone SIM Card Slot Count</h3>
+				<a href='mobiles.html'>Single SIM,</a>
+				<a href='mobiles.html'>Dual SIM,</a>
+				<a href='mobiles.html'>Triple SIM,</a>
+				<a href='mobiles.html'>Quad SIM</a>
+				<h3 style='color:Maroon'>Mobile Phone Resolution</h3>
+				<a href='mobiles.html'>1080 * 1920,</a>
+				<a href='mobiles.html'>1080 * 2280,</a>
+				<a href='mobiles.html'>1080 * 2340</a>
+				<a href='mobiles.html'>1280 * 720</a>
+				<a href='mobiles.html'>1440 * 720,</a>
+                 <a href='mobiles.html'>1920 * 1080,</a>
+				 <a href='mobiles.html'>2280 * 1080,</a>
+				 <a href='mobiles.html'>2340 * 1080,</a>
+				 <a href='mobiles.html'>240 * 320,</a>
+				<h3 style='color:Maroon'>Mobile Phone Resolution</h3>
+				<a href='mobiles.html'>Bluetooth,</a>
+				<a href='mobiles.html'>Dual SIM,</a>
+				<a href='mobiles.html'>E- Mail</a>
+				<a href='mobiles.html'>GPS</a>
+				<a href='mobiles.html'>Hotspot,</a>
+                 <a href='mobiles.html'>Internet,</a>
+				 <a href='mobiles.html'>MP3,</a>
+				 <a href='mobiles.html'>Music Player,</a>
+				 <a href='mobiles.html'>Primary camers,</a>
+				 <a href='mobiles.html'>Radio</a>
+				 <h3 style='color:Maroon'>Data transfer</h3>
+				<a href='mobiles.html'>3G,</a>
+				<a href='mobiles.html'>4G,</a>
+				<a href='mobiles.html'>Edge</a>
+				<a href='mobiles.html'>GPRS</a>
+				<a href='mobiles.html'>GSM,</a>
+                 <a href='mobiles.html'>WIFI,</a>
+				 <h3 style='color:Maroon'>item condition</h3>
+				<a href='mobiles.html'>New</a>
+				<h3 style='color:Maroon'>Availability</h3>
+				<a href='mobiles.html'>Include out of Stock</a>
+				</div>
+				<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m1.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m2.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m3.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m4.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m22.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m6.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m7.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m8.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m9.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m9.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m10.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m11.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m12.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m13.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m14.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m15.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m16.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m17.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div><div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m18.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div><div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m19.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m20.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m21.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m22.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m23.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m24.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m25.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m26.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m7.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div><div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m2.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div><div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m9.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m10.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m16.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m1.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m10.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m14.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mobi'>
+			       <img src='asset/photos/mobiles/m1.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_12 mainmenu'>
+			  <a href='mobiles.html'>back to top</a>
+			</div>
+	<div class='grid_12 footer'>
+	        
+			<div class='grid_2 foote'>
+			<h3>Get to know Us</h3>
+			
+			
+			<a href='mydetails.html'>About Us</a><br><br>
+			
+			<a href='mydetails.html'>Careers</a><br><br>
+			<a href='mydetails.html'>Press Relese</a><br><br>
+			<a href='mydetails.html'>Prnitha Cares</a><br><br>
+			<a href='mydetails.html'>Gift a Smile</a>
+			</div>
+			<div class='grid_2 foote'>
+
+			<h3>Connect with Us</h3>
+			
+			
+			<a href='mydetails.html'>Facebook</a><br><br>
+			
+			<a href='mydetails.html'>Twitter</a><br><br>
+			<a href='mydetails.html'>Instagram</a><br><br>
+			<a href='mydetails.html'>whatsapp</a>
+		  </div>
+		  <div class='grid_2 foote'>
+			<h3>Make Money with Us</h3>
+			
+			
+			<a href='mydetails.html'>sell on pranitha</a><br><br>
+			
+			<a href='mydetails.html'>sell under pranitha</a><br><br>
+			<a href='mydetails.html'>pranitha</a>
+		  </div>
+		</div>
+	</div>
+   </body>
+</html>

@@ -1,0 +1,51 @@
+
+.mens{
+	margin-top:10px;
+	color:red;
+}
+.box{
+	background-color:yellow;
+}
+.name{
+   /*border-style:solid;*/
+   height:200px;
+   text-align:center;
+   font-size:80px;
+   background-color:red;
+}
+.list{
+	margin-top:10px;
+}
+.list h1{
+	width:160px;
+}
+.trans img{
+	margin-top:15px;
+}
+.m1{
+	margin-top:10px;
+	
+}
+.m1 a{
+	text-decoration:none;
+	color:red;
+}
+.m2{
+	margin-top:10px;
+	color:blue;
+}
+.m3{
+	margin-top:10px;
+	color:blue;
+}
+.m4{
+	margin-top:10px;
+	color:blue;
+}
+.list a{
+	text-decoration:none;
+}
+.list1 a{
+    font-size:30px;
+	text-decoration:none;
+}

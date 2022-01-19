@@ -1,0 +1,537 @@
+<html>
+     <head>
+	     <title>men</title>
+		 <link href='asset/css/960.css' rel='stylesheet'/>
+		<link href='asset/css/lap.css' rel='stylesheet'/>
+	 </head>
+	 <body>
+	    <div class='container_12'>
+		     <div class='grid_4 mm'>
+			     <img src='asset/photos/pranitha.png' width='300px' height='200px'>
+			 </div>
+			 <div class='grid_8 name'>
+			      PRANITHA FOUNDATION
+			 </div>
+			 <div class='clear'>
+			 </div>
+			 <div class='grid_2 menu'>
+			     <a href='pranitha.html'>MENU</a>
+			 </div>
+			 <div class='grid_2 menu'>
+			    <a href='mens.html'>MEN</a>
+			 </div>
+			 <div class='grid_2  menu'>
+			    <a href='womens.html'>WOMEN</a>
+			 </div>
+			  <div class='grid_2  menu'>
+			     <a href='childrens.html'>CHILD</a>
+			 </div>
+			 <div class='grid_2  menu'>
+			     <a href='mobiles.html'>MOBILES</a>
+			 </div>
+			 <div class='grid_2  menu'>
+			     <a href='laptops.html'>LAPTOP AND ELECTRONIC</a>
+			</div>
+<div class='grid_3 mob'>
+			  <h1 style='color:Maroon'>FILTERS</h1>
+			   <h1 style='color:Maroon'>Prime&Delivery</h2>
+			  <h3 style='color:Maroon'>Delivery</h3>
+			   <a href='mobiles.html'>Get It Today</a><br>
+			   <a href='mobiles.html'>Get It By Tomorrow</a>
+			   <h3 style='color:Maroon'>Shipping Option</h3>
+			   <a href='mobiles.html'>Eligible for pay on delivery</a>
+			    <h3 style='color:Maroon'>Categories</h3>
+				<h4 style='color:Maroon'>Laptops</h4>
+				<a href='mobiles.html'>All</a><br>
+				<a href='mobiles.html'>Traditional Laptops</a>
+				<h2 style='color:Maroon'>Brands</h2>
+				<h3 style='color:Maroon'>A-F</h3>
+				<a href='mobiles.html'>Apple</a><br>
+				<a href='mobiles.html'>Acer</a><br>
+				<a href='mobiles.html'>ASUS</a><br>
+                  <a href='mobiles.html'>AVITA</a><br>
+                 <a href='mobiles.html'>Dell</a><br>
+                 <a href='mobiles.html'>Fujitsu</a>
+				<h3 style='color:Maroon'>G-M</h3>
+			    <a href='mobiles.html'>Generic,</a><br>
+				<a href='mobiles.html'>HP,</a><br>
+				<a href='mobiles.html'>Intel,</a><br>
+				<a href='mobiles.html'>Lenovo,</a><br>
+				<a href='mobiles.html'>LG,</a><br>
+				<a href='mobiles.html'>Maxbell,</a><br>
+				<a href='mobiles.html'>MI,</a><br>
+				<a href='mobiles.html'>Msi,</a><br>
+				<a href='mobiles.html'>MicroSoft</a>
+				<h3 style='color:Maroon'>N-Z</h3>
+			    <a href='mobiles.html'>Razer,</a><br>
+				<a href='mobiles.html'>Samsung,</a><br>
+				<a href='mobiles.html'>Sony,</a><br>
+				<a href='mobiles.html'>TOSHIBA,</a><br>
+				<a href='mobiles.html'>TravisLappy,</a><br>
+				<a href='mobiles.html'>ZEBTONICD,</a>
+				
+				<h3 style='color:Maroon'>Price and Deals</h3>
+				<h4 style='color:Maroon'>Price</h4>
+				<h4 style='color:Maroon'>All Price</h4>
+			    <a href='mobiles.html'>under RS 20,000,</a><br>
+				<a href='mobiles.html'>RS 20,000-RS 30,000,</a><br>
+				<a href='mobiles.html'>RS 30,000-RS 40,000,</a><br>
+				<a href='mobiles.html'>RS 40,000-RS 50,000,</a>
+				<a href='mobiles.html'>Over Rs 50,000</a><br><br>
+				<table>
+				  <tr>
+				      
+				     <td width='30px' height='30px'><input  placeholder='min' required/></td>
+				  </tr>
+				</table>
+				<table >
+				  <tr>
+				      
+				     <td width='30px' height='30px'><input  placeholder='min' required/></td>
+				  </tr>
+				</table>
+				
+				<table >
+				  <tr>
+				      
+				     <td width='30px' height='30px'><input type='submit' name='save'/></td>
+				  </tr>
+				</table>
+				 <h1 style='color:Maroon'>Discount</h1>
+              <a href='mobiles.html'>10% Off or more</a><br>
+               <a href='mobiles.html'> 25% Off or more</a><br>
+              <a href='mobiles.html'>35% Off or more</a><br>
+              <a href='mobiles.html'> 50% Off or more</a><br>
+            <a href='mobiles.html'> 60% Off or more</a><br>
+             <a href='mobiles.html'> 70% Off or more</a><br>
+			 <h1 style='color:Maroon'>Delas</h1>
+			<a href='mobiles.html'>Today delas</a><br>
+			<h1 style='color:Maroon'>Laptops</h1>
+			  <h2 style='color:Maroon'>CPU type</h2>
+			 <a href='mobiles.html'>AMD A6,</a><br>
+			 <a href='mobiles.html'>AMD A8,</a><br>
+			 <a href='mobiles.html'>AMD Athlon,</a><br>
+			  <h2 style='color:Maroon'>AMD Ryzen 3,</h2>
+			    <a href='mobiles.html'>AMD Ryzen 5,</a><br>
+				<a href='mobiles.html'>AMD Ryzen 7,</a><br>
+				<a href='mobiles.html'>AMD Ryzen 9,</a><br>
+				<a href='mobiles.html'>Intel Celerno,</a> <br>
+			   <a href='mobiles.html'>Intel Core 2,</a><br>
+				<h3 style='color:Maroon'>Maximum CPU Speed</h3>
+				<a href='mobiles.html'>Upto 1.5GHz,</a><br>
+				<a href='mobiles.html'>1.6 - 2 GHz,</a><br>
+				<a href='mobiles.html'>2.1 - 2.5 GHz,</a><br>
+				<a href='mobiles.html'>2.5GHz & above</a><br>
+               <h3 style='color:Maroon'>Opreating System</h3>
+				<a href='mobiles.html'>Window 10,</a><br>
+				<a href='mobiles.html'>Window 7,</a><br>
+				<a href='mobiles.html'>Mac OS,</a><br>
+				<a href='mobiles.html'>Linux</a><br>
+                <a href='mobiles.html'>Chrome,</a><br>
+				<a href='mobiles.html'>DOS</a><br>
+				<h3 style='color:Maroon'>Memory Size</h3>
+				<a href='mobiles.html'>Up to 2GB</a><br>
+				<a href='mobiles.html'>4 GB,</a><br>
+				<a href='mobiles.html'>4 GB,</a><br>
+				<a href='mobiles.html'>12 GB,</a><br>
+				<a href='mobiles.html'>16 GB & More</a><br>
+                <h3 style='color:Maroon'>HDD Size</h3>
+				<a href='mobiles.html'>Up to 159 GB</a><br>
+				<a href='mobiles.html'>160 - 249 GB,</a><br>
+				<a href='mobiles.html'>250 - 499 GB,</a><br>
+				<a href='mobiles.html'>500 - 999GB,</a><br>
+				<a href='mobiles.html'>1TB & More</a><br>
+                  <h3 style='color:Maroon'>Storage Type</h3>
+				<a href='mobiles.html'>Hybrid Drive</a><br>
+				<a href='mobiles.html'>Mechanical Hrad Drive,</a><br>
+				<a href='mobiles.html'>Solid State Drive,</a><br>
+				<h3 style='color:Maroon'>Feature</h3>
+				<a href='mobiles.html'>Anti Reflective</a><br>
+				<a href='mobiles.html'>CD/DVD,</a><br>
+				<a href='mobiles.html'>Touchscreen</a><br>
+				<h3 style='color:Maroon'>Laptop Weight</h3>
+				<a href='mobiles.html'>Up to 0.9 KG</a><br>
+				<a href='mobiles.html'>1 - 1.4 KG,</a><br>
+				<a href='mobiles.html'>1.5 - 1.9 KG,</a><br>
+				<a href='mobiles.html'>2 - 2.4 KG,</a><br>
+				<a href='mobiles.html'>2.5 Kg & More</a><br>
+				<h3 style='color:Maroon'>Battery Life</h3>
+				<a href='mobiles.html'>Up to 4 Hours,</a><br>
+				<a href='mobiles.html'>5 - 7 Hours,</a><br>
+				<a href='mobiles.html'>8 - 9 Hours,</a><br>
+				<a href='mobiles.html'>11 Hours & More,</a><br>
+				<h3 style='color:Maroon'>Graphics Processor</h3>
+				<a href='mobiles.html'>AMD Radeon HD Series</a><br>
+				<a href='mobiles.html'>AMD Radeon RX 500 Series,</a><br>
+				<a href='mobiles.html'>AMD Radeon RX Vega Series,</a><br>
+				<a href='mobiles.html'>Intel Intefrated Graphics,</a><br>
+				<h3>CPU Manufacturer</h3>
+				<a href='mobiles.html'>AMD,</a><br>
+                 <a href='mobiles.html'>Intel,</a><br>
+				<h3 style='color:Maroon'>Laptop Dsiplay Size</h3>
+				<a href='mobiles.html'>Up to 10",</a><br>
+				<a href='mobiles.html'>11" - 12",</a><br>
+				<a href='mobiles.html'>13" - 14",</a><br>
+				<a href='mobiles.html'>15" - 16",</a><br>
+				<a href='mobiles.html'>17" & More,</a><br>
+				<h3 style='color:Maroon'>Laptop Computer Keyboard Layout</h3>
+				<a href='mobiles.html'>QWERTY</a>
+				<h3 style='color:Maroon'>Laptop Computer Human Interface Input</h3>
+				<a href='mobiles.html'>TouchScreen,</a>
+				<a href='mobiles.html'>TouchCreen With STyle Support</a>
+				<h3 style='color:Maroon'>Laptop Computer Biometric Secturity Feature</h3>
+				<a href='mobiles.html'>Face Recognition,</a><br>
+				<a href='mobiles.html'>fingerprint Recognition</a>
+				<h3 style='color:Maroon'>Laptop Computer Camera Location</h3>
+				<a href='mobiles.html'>Front</a>
+				 <h3 style='color:Maroon'>Computer Usage</h3>
+				<a href='mobiles.html'>BUsinees,</a><br>
+				<a href='mobiles.html'>Gaming,</a><br>
+				<a href='mobiles.html'>Multimedia</a><br>
+				<a href='mobiles.html'>Personal</a>
+				 <h3 style='color:Maroon'>item condition</h3>
+				<a href='mobiles.html'>New</a>
+				<h3 style='color:Maroon'>Availability</h3>
+				<a href='mobiles.html'>Include out of Stock</a>
+				</div>
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l1.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                  </div>
+                  <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l2.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                </div>
+                 <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l3.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                 </div>
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l4.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l5.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>  
+                      </div>  
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l6.jpeg' width='215px' height='170px'>
+			      <p>RS 15,000/-</p>
+				 <button>order now</button>
+                  </div>
+                      
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l7.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                 </div>
+                        
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l28.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+               <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l9.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                   <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l20.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                    <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l21.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+               <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l22.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div> 
+                   <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l23.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                    <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l24.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+               <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l25.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l26.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                      
+                  <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l27.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                      
+            <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l28.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+            <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+            <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp1.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+            <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp2.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+           <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp3.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+            <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp4.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div> 
+           <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp5.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+               <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp6.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                 <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp7.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                   <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp8.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                 <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp9.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                 <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp10.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+              <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp11.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                 <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l1.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                  </div>
+                  <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l2.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                </div>
+                 <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l3.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                 </div>
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l4.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l5.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>  
+                      </div>  
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l6.jpeg' width='215px' height='170px'>
+			      <p>RS 15,000/-</p>
+				 <button>order now</button>
+                  </div>
+                      
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l7.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                 </div>
+                        
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l28.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+               <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l9.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                   <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l20.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                    <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l21.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+               <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l22.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div> 
+                   <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l23.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                    <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l24.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+               <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l25.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l26.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                      
+                  <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l27.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                      
+            <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/l28.jpeg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+            <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+            <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp1.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+            <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp2.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+           <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp3.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+            <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp4.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div> 
+           <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp5.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+               <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp6.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                 <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp7.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                   <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp8.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                 <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp9.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+                 <div class='grid_3 lp'>
+			   <img src='asset/photos/lapatop/lp10.jpg' width='215px' height='170px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+                   </div>
+             <div class='grid_12 mainmenu'>
+			  <a href='laptops.html'>back to top</a>
+			</div>
+			<div class='grid_12 footer'>
+			<div class='grid_3 foote'>
+			<h3>Get to know Us</h3>
+			
+			
+			<a href='mydetails.html'>About Us</a><br><br>
+			
+			<a href='mydetails.html'>Careers</a><br><br>
+			<a href='mydetails.html'>Press Relese</a><br><br>
+			<a href='mydetails.html'>Amazon Cares</a><br><br>
+			<a href='mydetails.html'>Gift a Smile</a>
+			</div>
+			<div class='grid_3 foote'>
+
+			<h3>Connect with Us</h3>
+			
+			
+			<a href='mydetails.html'>Facebook</a><br><br>
+			
+			<a href='mydetails.html'>Twitter</a><br><br>
+			<a href='mydetails.html'>Instagram</a>
+		  </div>
+		  <div class='grid_3 foote'>
+			<h3>Make Money with Us</h3>
+			
+			
+			<a href='mydetails.html'>sell on pranitha</a><br><br>
+			
+			<a href='mydetails.html'>sell under pranitha</a><br><br>
+			<a href='mydetails.html'>pranitha</a>
+		  </div>
+               
+         </div>
+    </body>
+</html>

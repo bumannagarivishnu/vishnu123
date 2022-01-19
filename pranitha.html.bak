@@ -1,0 +1,199 @@
+<html>
+     <head>
+	      <title>pranith online shoping</title>
+		  <link href='asset/css/960.css' rel='stylesheet'/>
+		<link href='asset/css/pranitha.css' rel='stylesheet'/>
+	 </head>
+	 <body>
+	     <div class='container_12'>
+		     <div class='grid_4 box'>
+			     <img src='asset/photos/pranitha.png' width='300px' height='200px'>
+			 </div>
+			 <div class='grid_8 name'>
+			      PRANITHA FOUNDATION
+			 </div>
+			 <div class='clear'>
+			 </div>
+			 <div class='grid_2 menu'>
+			     <a href='menu.html'>MENU</a>
+			 </div>
+			 <div class='grid_2 menu'>
+			    <a href='mens.html'>MEN</a>
+			 </div>
+			 <div class='grid_2  menu'>
+			    <a href='womens.html'>WOMEN</a>
+			 </div>
+			  <div class='grid_2  menu'>
+			     <a href='childrens.html'>CHILD</a>
+			 </div>
+			 <div class='grid_2  menu'>
+			     <a href='mobiles.html'>MOBILES</a>
+			 </div>
+			 <div class='grid_2  menu1'>
+			     <a href='laptops.html'>LAPTOP AND ELECTRONIC</a>
+			 </div>
+			 <div class='grid_12 siled'>
+			 <img src='asset/photos/img.jpg' width='940px' height='500px'>
+			 <img src='asset/photos/img.jpg' width='940px' height='500px'>
+			 
+			 </div>
+			 <div class='grid_3 im'>
+			     <img src='asset/photos/img.jpg' width='216px' height='200px'>
+				 <p>RS 70,000/-</p>
+				 <button>order now</button><br>				 
+			 </div>
+			 <div class='grid_3 im'>
+			     <img src='asset/photos/com.jpg' width='216px' height='200px'>
+				  <p>RS 50,000/-</p>
+				 <button>order now</button>
+				 
+			 </div>
+			 <div class='grid_3 im'>
+			   <img src='asset/photos/mobile.webp' width='216px' height='200px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+			 
+			 </div>
+			 <div class='grid_3 im'>
+			   <img src='asset/photos/com.jpg' width='216px' height='200px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+			   
+			 </div>
+			  <div class='grid_3 im'>
+			     <img src='asset/photos/sho.jpg' width='216px' height='200px'>
+				 <p>RS 1000/-</p>
+				 <button>order now</button><br>				 
+			 </div>
+			 <div class='grid_3 im'>
+			     <img src='asset/photos/mens.jpg' width='216px' height='200px'>
+				  <p>RS 900/-</p>
+				 <button>order now</button>
+				 
+			 </div>
+			 <div class='grid_3 im'>
+			   <img src='asset/photos/sha.webp' width='215px' height='200px'>
+			   <p>RS 1,200/-</p>
+				 <button>order now</button>
+			 
+			 </div>
+			 <div class='grid_3 im'>
+			   <img src='asset/photos/shar.webp' width='215px' height='200px'>
+			   <p>RS 15000/-</p>
+				 <button>order now</button>
+			   
+			 </div>
+			 
+			  <div class='grid_12 child'>
+			  <img src='asset/photos/chiled.jpg' width='940px' height='200px'>
+			  </div>
+			  <div class='grid_3 im'>
+			     <img src='asset/photos/camers/oil.jpg' width='100px' height='200px'>
+				 <p>RS 100/-</p>
+				 <button>order now</button><br>				 
+			 </div>
+			 <div class='grid_3 im'>
+			     <img src='asset/photos/camers/watch.jpg' width='216px' height='200px'>
+				  <p>RS 100/-</p>
+				 <button>order now</button>
+				 
+			 </div>
+			 <div class='grid_3 im'>
+			   <img src='asset/photos/iron.webp' width='216px' height='200px'>
+			   <p>RS 1500/-</p>
+				 <button>order now</button>
+			 
+			 </div>
+			 <div class='grid_3 im'>
+			   <img src='asset/photos/img.jpg' width='215px' height='200px'>
+			   <p>RS 50,000/-</p>
+				 <button>order now</button>
+			   
+			 </div> <div class='grid_3 im'>
+			     <img src='asset/photos/img.jpg' width='216px' height='200px'>
+				 <p>RS 70,000/-</p>
+				 <button>order now</button><br>				 
+			 </div>
+			 <div class='grid_3 im'>
+			     <img src='asset/photos/com.jpg' width='216px' height='200px'>
+				  <p>RS 50,000/-</p>
+				 <button>order now</button>
+				 
+			 </div>
+			 <div class='grid_3 im'>
+			   <img src='asset/photos/mobile.webp' width='216px' height='200px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+			 
+			 </div>
+			 <div class='grid_3 im'>
+			   <img src='asset/photos/com.jpg' width='216px' height='200px'>
+			   <p>RS 15,000/-</p>
+				 <button>order now</button>
+			   
+			 </div> <div class='grid_3 im'>
+			     <img src='asset/photos/img.jpg' width='216px' height='200px'>
+				 <p>RS 70,000/-</p>
+				 <button>order now</button><br>				 
+			 </div>
+			 <div class='grid_3 im'>
+			     <img src='asset/photos/camers/hit.jpg' width='100px' height='200px'>
+				  <p>RS 1000/-</p>
+				 <button>order now</button>
+				 
+			 </div>
+			 <div class='grid_3 im'>
+			   <img src='asset/photos/bag.webp' width='215px' height='200px'>
+			   <p>RS 1000/-</p>
+				 <button>order now</button>
+			 
+			 </div>
+			 <div class='grid_3 im'>
+			   <img src='asset/photos/work.jpg' width='215px' height='200px'>
+			   <p>RS 1500/-</p>
+				 <button>order now</button>
+			   
+			 </div>
+			 <div class='grid_12 mainmenu'>
+			  <a href='pranitha.html'>back to top</a>
+			</div>
+		<div class='grid_12 footer'>
+			<div class='grid_3 foote alpha'>
+			<h3>Get to know Us</h3>
+			
+			
+			<a href='mydetails.html'>About Us</a><br><br>
+			
+			<a href='mydetails.html'>Careers</a><br><br>
+			<a href='mydetails.html'>Press Relese</a><br><br>
+			<a href='mydetails.html'>Pranitha Cares</a><br><br>
+			<a href='mydetails.html'>Gift a Smile</a>
+			</div>
+			<div class='grid_3 foote'>
+
+			<h3>Connect with Us</h3>
+			
+			
+			<a href='mydetails.html'>Facebook</a><br><br>
+			
+			<a href='mydetails.html'>Twitter</a><br><br>
+			<a href='mydetails.html'>Instagram</a><br><br>
+			<a href='mydetails.html'>whatsapp</a>
+		</div>
+		  
+		  <div class='grid_3 foote'>
+			<h3>Make Money with Us</h3>
+			
+			
+			<a href='mydetails.html'>sell on pranitha</a><br><br>
+			
+			<a href='mydetails.html'>sell under pranitha</a><br><br>
+			<a href='mydetails.html'>pranitha</a>
+		  </div>
+		  
+		   
+		  
+		</div>
+		 </div>
+	 </body>
+</html>

@@ -1,0 +1,41 @@
+*{
+	box-sizing:border-box;
+}
+.box{
+	background-color:yellow;
+
+}
+.name{
+   /*border-style:solid;*/
+   height:200px;
+   text-align:center;
+   font-size:80px;
+   background-color:red;
+   
+}
+.menu {
+   margin-top:10px;
+}
+.menu a{
+   text-decoration:none;
+}
+.mm{
+background-color:yellow;
+}
+.lp{
+   border-style:solid;
+   text-align:center;
+  background-color:silver;
+ transition-property:transform;
+transition-duration:1s;
+
+  }
+.mob a{
+text-decoration:none;
+}
+.lp:hover{
+   transform:scale(1.2)
+}
+.lp{
+margin-top:10px;
+}

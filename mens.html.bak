@@ -1,0 +1,276 @@
+<html>
+     <head>
+	     <title>men</title>
+		 <link href='asset/css/960.css' rel='stylesheet'/>
+		<link href='asset/css/pranitha.css' rel='stylesheet'/>
+	 </head>
+	 <body>
+	    <div class='container_12'>
+		     <div class='grid_4 box'>
+			     <img src='asset/photos/pranitha.png' width='300px' height='200px'>
+			 </div>
+			 <div class='grid_8 name'>
+			      PRANITHA FOUNDATION
+			 </div>
+			 <div class='clear'>
+			 </div>
+			 <div class='grid_2 menu'>
+			     <a href='pranitha.html'>MENU</a>
+			 </div>
+			 <div class='grid_2 menu'>
+			    <a href='mens.html'>MEN</a>
+			 </div>
+			 <div class='grid_2  menu'>
+			    <a href='womens.html'>WOMEN</a>
+			 </div>
+			  <div class='grid_2  menu'>
+			     <a href='childrens.html'>CHILD</a>
+			 </div>
+			 <div class='grid_2  menu'>
+			     <a href='mobiles.html'>MOBILES</a>
+			 </div>
+			 <div class='grid_2  menu'>
+			     <a href='laptops.html'>LAPTOP AND ELECTRONIC</a>
+			</div>
+			<div class='grid_3 list'>
+                 <h1 style='color:Maroon'>Fashion</h1>
+                  <a href='menu.html'>Men</a><br>
+                <a href='menu.html'> Clothing</a><br>
+				    
+                <a href='menu.html'> Shoes</a><br>
+              <a href='menu.html'>Jewellery</a><br>
+              <a href='menu.html'>   Watches</a><br>
+               <a href='menu.html'>   Wallets</a>
+			   
+				<h1 style='color:Maroon'>  Brands</h1>
+
+               <a href='menu.html'>Zacharias</a><br>
+                <a href='menu.html'>Napa hide</a><br>
+           <a href='menu.html'>RC. ROYAL CLASS</a><br>
+		   <a href='menu.html'>Adidas</a><br>
+            <a href='menu.html'>WildHorn</a><br>
+			<h1 style='color:Maroon'>PRICE</h1>
+			<a href='menu.html'>UNDER RS1,000</a><br>
+			<a href='menu.html'>RS1000-5000</a><br>
+			<a href='menu.html'>RS15000-10000</a><br>
+			<a href='menu.html'>RS10000-20000</a><br>
+			<a href='menu.html'>OVER 20000</a>
+			   <h1 style='color:Maroon'>Discount</h1>
+              <a href='menu.html'>10% Off or more</a><br>
+               <a href='menu.html'> 25% Off or more</a><br>
+              <a href='menu.html'>35% Off or more</a><br>
+              <a href='menu.html'> 50% Off or more</a><br>
+            <a href='menu.html'> 60% Off or more</a><br>
+             <a href='menu.html'> 70% Off or more</a><br>
+			 <h1 style='color:Maroon'>Delas</h1>
+			<a href='menu.html'>Today delas</a>
+            <h1 style='color:Maroon'> Seller</h1>
+			
+			 
+           <a href='menu.html'> Cloudtail India</a><br>
+           <a href='menu.html'> Opticalskart</a><br>
+             <a href='menu.html'> Bixind (USA)</a><br>
+            <a href='menu.html'>Cart2India SLP</a><br>
+			 <a href='menu.html'>Global Hub</a><br>
+            <a href='menu.htm'>Shoppers stop com</a><br>
+			<a href='menu.html'>NAZO MART</a><br>
+			<a href='menu.html'>SHOPRIDER</a><br>
+			<a href='menu.html'>Cart2India Online</a><br>
+           <a href='menu.html'> DI TRADE (USA)</a><br>
+         
+			 </div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/t.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/tt.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/sha.jpg' width='216px' height='200px'>
+				 <p>RS 1200/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/shu1.jpg' width='216px' height='200px'>
+				 <p>RS 900/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/s.jpg' width='216px' height='200px'>
+				 <p>RS 500/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/mens10.jpg' width='216px' height='200px'>
+				 <p>RS 400/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/mens9.jpg' width='216px' height='200px'>
+				 <p>RS 600/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/mens11.jpg' width='216px' height='200px'>
+				 <p>RS 1300/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/mens7.jpg' width='216px' height='200px'>
+				 <p>RS 999/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/mensp1.jpg' width='216px' height='200px'>
+				 <p>RS 499/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss5.jpg' width='216px' height='200px'>
+				 <p>RS 499/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss9.jpg' width='216px' height='200px'>
+				 <p>RS 750/-</p>
+				 <button>order now</button>
+			</div><div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss7.jpg' width='216px' height='200px'>
+				 <p>RS 650/-</p>
+				 <button>order now</button>
+			</div><div class='grid_3 mens'>
+			<img src='asset/photos/mens/pp.jpg' width='216px' height='200px'>
+				 <p>RS 850/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/mensp4.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div><div class='grid_3 mens'>
+			<img src='asset/photos/mens/sh.webp' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/download.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss8.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/s.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss6.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss4.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss3.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss2.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/mensp4.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss1.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/p.jpeg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/n.webp' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+		  <div class='grid_3 mens'>
+			<img src='asset/photos/mens/shu1.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+			<div class='grid_3 mens'>
+			<img src='asset/photos/mens/s.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+              <div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss3.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+             <div class='grid_3 mens'>
+			<img src='asset/photos/mens/menss.jpg' width='216px' height='200px'>
+				 <p>RS 700/-</p>
+				 <button>order now</button>
+			</div>
+            <div class='grid_12 mainmenu'>
+			  <a href='mens.html'>back to top</a>
+			</div>
+			<div class='grid_12 footer'>
+			<div class='grid_3 foote'>
+			<h3>Get to know Us</h3>
+			
+			
+			<a href='mydetails.html'>About Us</a><br><br>
+			
+			<a href='mydetails.html'>Careers</a><br><br>
+			<a href='mydetails.html'>Press Relese</a><br><br>
+			<a href='mydetails.html'>Pranitha Cares</a><br><br>
+			<a href='mydetails.html'>Gift a Smile</a>
+			</div>
+			<div class='grid_3 foote'>
+
+			<h3>Connect with Us</h3>
+			
+			
+			<a href='mydetails.html'>Facebook</a><br><br>
+			
+			<a href='mydetails.html'>Twitter</a><br><br>
+			<a href='mydetails.html'>Instagram</a>
+		  </div>
+		  <div class='grid_3 foote'>
+			<h3>Make Money with Us</h3>
+			
+			
+			<a href='mydetails.html'>sell on pranitha</a><br><br>
+			
+			<a href='mydetails.html'>sell under pranitha</a><br><br>
+			<a href='mydetails.html'>pranitha</a>
+		  </div>
+		</div>
+	 </body>
+</html>

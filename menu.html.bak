@@ -1,0 +1,61 @@
+<html>
+     <head>
+	      <title>MENU</title>
+		  <link href='asset/css/960.css' rel='stylesheet'/>
+		<link href='asset/css/menu.css' rel='stylesheet'/>
+		<style>
+		   a:link{
+		    color: black;
+  background-color: transparent;
+  text-decoration: none;
+		       }
+			   a:hover {
+           color: yellow;
+        background-color: transparent;
+          text-decoration: underline;
+		  }
+}
+		</style>
+	 </head>
+	 <body>
+	       <div class='container_12'>
+		     <div class='grid_4 box'>
+			     <img src='asset/photos/pranitha.png' width='320px' height='200px'>
+			 </div>
+			 <div class='grid_8 name'>
+			      PRANITHA FOUNDATION
+			 </div>
+			 <div class='clear'>
+			 </div>
+			 <div class='grid_6 m1'>
+			 <a href='pranitha.html'> MAIN MENU</a>
+			 <h1>Trending</h1>
+			 <h2><a href='bestseller.html'>Bset Sellers</a><br></h2>
+			 <h2><a href='new.html'>New Releases</a><br></h2>
+			 <h2><a href='movers.html'>Movers and shakers</a></h2>
+			 <h1>Digital Content And Decviecs</h1>
+			 <h2><a href='echo.html'>Echo & Alexa</a></h2>
+			 <h2><a href='echo.html'>Fiew TV</a></h2>
+			 <h2><a href='echo.html'>Lindle E-Readers & eBooks</a></h2>
+			 <h2><a href='echo.html'>Audible Audiobooks</a></h2>
+			 <h2><a href='echo.html'>pranitha</a></h2>
+			  <h2>Shop By Department</h2>
+                <h2> <a href='echo.html'>Mobiles ,computer</a><br></h2>
+				<h2> <a href='echo.html'>TV,Appliances,Electronics</a><br></h2>
+				<h2> <a href='echo.html'>Mens' Fashion</a><br></h2>
+               <h2>  <a href='echo.html'>WOmen's FAshion</a><br></h2>
+		       <h2>  <a href='echo.html'>Home,Kitechen,Pets</a>	<br></h2>
+              <h2>   <a href='echo.html'>Beauty,Health,Grocery</a><br></h2></h2>
+               <h2>  <a href='echo.html'>Sports,Fitness,Bags,Luggage</a><br></h2>
+               <h2>  <a href='echo.html'>Toys,Baby,Products,Kid's Fashion</a><br>
+               <h2>  <a href='echo.html'>Car,Motorbikes,Industrial</a></h2>
+                 <h2>  <a href='echo.html'>Aggriculters products</a></h2>	
+                 <h1>Help & Setting</h1>				  
+				 <h2>  <a href='echo.html'>Your Account</a></h2>
+                 <h2>  <a href='echo.html'>Custmoer Service</a></h2>
+                 <h2>  <a href='echo.html'>Sing In</a></h2>				 
+				 <h2>  <a href='echo.html'>Sing Out</a></h2>
+			 </div>
+			</div>
+	 </body>
+</html>
